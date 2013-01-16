@@ -1,7 +1,7 @@
 //Jonathan Ho
 
 /**The GUI will have the following components:
- 	* Nine buttons representing different menu options and the associated prices
+    * Nine buttons representing different menu options and the associated prices
     * A text area which display the items currently ordered and the associated price
     * A clear button which clears the text area
     * A check out button which totals the meal and display the cost (assume no tax)
